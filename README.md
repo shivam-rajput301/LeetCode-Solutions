@@ -35,4 +35,5 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
