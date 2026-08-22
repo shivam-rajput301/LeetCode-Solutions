@@ -36,9 +36,14 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
