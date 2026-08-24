@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
