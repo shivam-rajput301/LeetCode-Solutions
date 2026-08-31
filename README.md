@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -30,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -64,6 +67,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -73,4 +77,12 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivam-rajput301/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
